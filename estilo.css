@@ -1,0 +1,111 @@
+
+body {
+    max-width: 35%;
+        margin: 0 auto;
+        border: solid 2px;
+        color: rgb(238, 238, 242);
+        padding: 100px;
+        background-color: rgb(71, 69, 69);
+        border-width: 5px;
+    }
+
+.borde {
+    border-bottom: solid 5px;
+    color: rgb(245, 245, 247);
+    padding-top: 20px;
+
+
+}
+
+img {
+height: 300px;
+width: 380px;
+}
+
+
+
+head {
+    background-color: #97a0c7;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1  {
+    font-size: 40px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 24px;
+    margin: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+.habilidades {
+    margin: 20px 0;
+}
+
+
+.habilidades ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.habilidades li {
+    display: inline-block;
+    background-color: #84acec;
+    color: #353434;
+    font-weight: bold;
+    font-size: 14px;
+    margin-right: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.estudio {
+    margin: 20px 0;
+}
+
+
+.estudio ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.estudio li {
+    margin-bottom: 20px;
+}
+
+.estudio .title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.estudio .company {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.estudio .date {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.estudio .description {
+    font-size: 16px;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
